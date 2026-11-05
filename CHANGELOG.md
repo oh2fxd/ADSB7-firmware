@@ -1,9 +1,12 @@
 # Changelog
 
+## [0.1.10] - 2026-11-05
+- More visible sonar ping: bigger/longer/thicker ring, ease-out fade, force ripple above aircraft layer
+- Built from commit 94e7625
+
 ## [0.1.9] - 2026-11-05
 - Inset sweep beam/head endpoints from radar edge to kill once-per-rotation gray bar blip
 - Built from commit a4064e9
-
 ## [0.1.8] - 2026-11-05
 - Fix OTA rollback (mark app valid on healthy boot) + auto-sync FW_VERSION; includes framebuffer-clear, sweep throttle, sonar-ping ripples
 - Built from commit 073849c

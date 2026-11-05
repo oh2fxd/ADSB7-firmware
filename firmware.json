@@ -1,5 +1,5 @@
 {
-  "version": "0.1.9",
+  "version": "0.1.10",
   "url": "https://raw.githubusercontent.com/oh2fxd/ADSB7-firmware/main/ADSB7.bin",
-  "notes": "Inset sweep beam/head endpoints from radar edge to kill once-per-rotation gray bar blip"
+  "notes": "More visible sonar ping: bigger/longer/thicker ring, ease-out fade, force ripple above aircraft layer"
 }
