@@ -1,5 +1,5 @@
 {
-  "version": "0.1.5",
+  "version": "0.1.6",
   "url": "https://raw.githubusercontent.com/oh2fxd/ADSB7-firmware/main/ADSB7.bin",
-  "notes": "Release v0.1.5 - map black-square fix (tile retry, last-frame preserve, tile fetch timeout)"
+  "notes": "Add GitHub pull-OTA (check manifest + flash from web portal); map black-square fix"
 }
