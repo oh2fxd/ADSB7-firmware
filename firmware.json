@@ -1,5 +1,5 @@
 {
-  "version": "0.1.28",
+  "version": "0.1.29",
   "url": "https://raw.githubusercontent.com/oh2fxd/ADSB7-firmware/main/ADSB7.bin",
-  "notes": "Secondary (left-radar) UI polish: per-row aircraft list (plane icon + COUNTRY/CALL/DIST/ALT/SPD metric, even columns, Montserrat), 3-card bottom (centered amber clock, METAR, LOC+IP values in amber); radar-only view: clock without seconds + amber, SYS/SSID removed, METAR top-left and LOC/IP bottom-left at a uniform HUD font. Secondary UI layout inspired by mircemk (Mirko Pavleski); implementation original (owner + AI)."
+  "notes": "Radar-only HUD: uniform amber + font size for clock, aircraft tags and LOC/IP; METAR forced visible top-left (station EFKI once fetched); clock without seconds. Secondary UI layout inspired by mircemk (Mirko Pavleski); implementation original (owner + AI)."
 }
