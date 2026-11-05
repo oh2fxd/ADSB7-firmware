@@ -1,5 +1,5 @@
 {
-  "version": "0.1.12",
+  "version": "0.1.13",
   "url": "https://raw.githubusercontent.com/oh2fxd/ADSB7-firmware/main/ADSB7.bin",
-  "notes": "Smoother sweep: pclk 20->24MHz, throttle web/OTA handlers off the frame loop; ripple now a filled fading disc; remove diagnostic counter"
+  "notes": "Remove ripple; add web-config option: left-aligned radar + right-side live aircraft list/stats (reboots on layout change)"
 }

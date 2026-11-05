@@ -1,9 +1,12 @@
 # Changelog
 
+## [0.1.13] - 2026-11-05
+- Remove ripple; add web-config option: left-aligned radar + right-side live aircraft list/stats (reboots on layout change)
+- Built from commit 5a141a9
+
 ## [0.1.12] - 2026-11-05
 - Smoother sweep: pclk 20->24MHz, throttle web/OTA handlers off the frame loop; ripple now a filled fading disc; remove diagnostic counter
 - Built from commit 49f2628
-
 ## [0.1.11] - 2026-11-05
 - DIAGNOSTIC: force ripple per rotation + HUD AC/PINGS counter to isolate why pings dont show
 - Built from commit 750e1ce
