@@ -1,5 +1,5 @@
 {
-  "version": "0.1.13",
+  "version": "0.1.16",
   "url": "https://raw.githubusercontent.com/oh2fxd/ADSB7-firmware/main/ADSB7.bin",
-  "notes": "Remove ripple; add web-config option: left-aligned radar + right-side live aircraft list/stats (reboots on layout change)"
+  "notes": "Reference-style secondary UI (left radar + right DETECTED AIRCRAFTS panel: metric aircraft table, LOC, METAR, admin IP, large clock); monospace list font; revert to tear-free FULL render mode. Secondary UI layout inspired by mircemk (Mirko Pavleski) hackster ESP32 ADS-B radar; implementation original (owner + AI)."
 }
