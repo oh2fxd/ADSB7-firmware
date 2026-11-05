@@ -1,9 +1,12 @@
 # Changelog
 
+## [0.1.7] - 2026-11-05
+- Display fixes + sonar-ping radar: clear framebuffers (kill right-edge flash), throttle sweep to refresh rate, expanding ripple ping on sweep contact
+- Built from commit 5dc8912
+
 ## [0.1.6] - 2026-11-05
 - Add GitHub pull-OTA (check manifest + flash from web portal); map black-square fix
 - Built from commit b2fe355
-
 ## [0.1.5] - 2026-11-05
 - Built from commit c0906d7
 - Fix map black-square: retry basemap tiles on transient fetch/decode failure,

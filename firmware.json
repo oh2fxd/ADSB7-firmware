@@ -1,5 +1,5 @@
 {
-  "version": "0.1.6",
+  "version": "0.1.7",
   "url": "https://raw.githubusercontent.com/oh2fxd/ADSB7-firmware/main/ADSB7.bin",
-  "notes": "Add GitHub pull-OTA (check manifest + flash from web portal); map black-square fix"
+  "notes": "Display fixes + sonar-ping radar: clear framebuffers (kill right-edge flash), throttle sweep to refresh rate, expanding ripple ping on sweep contact"
 }
