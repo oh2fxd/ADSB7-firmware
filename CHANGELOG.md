@@ -1,9 +1,12 @@
 # Changelog
 
+## [0.1.9] - 2026-11-05
+- Inset sweep beam/head endpoints from radar edge to kill once-per-rotation gray bar blip
+- Built from commit a4064e9
+
 ## [0.1.8] - 2026-11-05
 - Fix OTA rollback (mark app valid on healthy boot) + auto-sync FW_VERSION; includes framebuffer-clear, sweep throttle, sonar-ping ripples
 - Built from commit 073849c
-
 ## [0.1.7] - 2026-11-05
 - Display fixes + sonar-ping radar: clear framebuffers (kill right-edge flash), throttle sweep to refresh rate, expanding ripple ping on sweep contact
 - Built from commit 5dc8912

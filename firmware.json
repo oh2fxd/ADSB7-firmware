@@ -1,5 +1,5 @@
 {
-  "version": "0.1.8",
+  "version": "0.1.9",
   "url": "https://raw.githubusercontent.com/oh2fxd/ADSB7-firmware/main/ADSB7.bin",
-  "notes": "Fix OTA rollback (mark app valid on healthy boot) + auto-sync FW_VERSION; includes framebuffer-clear, sweep throttle, sonar-ping ripples"
+  "notes": "Inset sweep beam/head endpoints from radar edge to kill once-per-rotation gray bar blip"
 }
