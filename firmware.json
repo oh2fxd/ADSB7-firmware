@@ -1,5 +1,5 @@
 {
-  "version": "0.1.11",
+  "version": "0.1.12",
   "url": "https://raw.githubusercontent.com/oh2fxd/ADSB7-firmware/main/ADSB7.bin",
-  "notes": "DIAGNOSTIC: force ripple per rotation + HUD AC/PINGS counter to isolate why pings dont show"
+  "notes": "Smoother sweep: pclk 20->24MHz, throttle web/OTA handlers off the frame loop; ripple now a filled fading disc; remove diagnostic counter"
 }
