@@ -1,9 +1,12 @@
 # Changelog
 
+## [0.1.30] - 2026-11-06
+- Radar-only: METAR moved to very top-left; all HUD text (clock, METAR, aircraft tags, LOC/IP) uniform Montserrat 16. Secondary UI layout inspired by mircemk (Mirko Pavleski); implementation original (owner + AI).
+- Built from commit 53a90f6
+
 ## [0.1.29] - 2026-11-06
 - Radar-only HUD: uniform amber + font size for clock, aircraft tags and LOC/IP; METAR forced visible top-left (station EFKI once fetched); clock without seconds. Secondary UI layout inspired by mircemk (Mirko Pavleski); implementation original (owner + AI).
 - Built from commit 343ad41
-
 ## [0.1.28] - 2026-11-05
 - Secondary (left-radar) UI polish: per-row aircraft list (plane icon + COUNTRY/CALL/DIST/ALT/SPD metric, even columns, Montserrat), 3-card bottom (centered amber clock, METAR, LOC+IP values in amber); radar-only view: clock without seconds + amber, SYS/SSID removed, METAR top-left and LOC/IP bottom-left at a uniform HUD font. Secondary UI layout inspired by mircemk (Mirko Pavleski); implementation original (owner + AI).
 - Built from commit 9f863d2

@@ -1,5 +1,5 @@
 {
-  "version": "0.1.29",
+  "version": "0.1.30",
   "url": "https://raw.githubusercontent.com/oh2fxd/ADSB7-firmware/main/ADSB7.bin",
-  "notes": "Radar-only HUD: uniform amber + font size for clock, aircraft tags and LOC/IP; METAR forced visible top-left (station EFKI once fetched); clock without seconds. Secondary UI layout inspired by mircemk (Mirko Pavleski); implementation original (owner + AI)."
+  "notes": "Radar-only: METAR moved to very top-left; all HUD text (clock, METAR, aircraft tags, LOC/IP) uniform Montserrat 16. Secondary UI layout inspired by mircemk (Mirko Pavleski); implementation original (owner + AI)."
 }
