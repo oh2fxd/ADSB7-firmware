@@ -1,9 +1,12 @@
 # Changelog
 
+## [0.1.11] - 2026-11-05
+- DIAGNOSTIC: force ripple per rotation + HUD AC/PINGS counter to isolate why pings dont show
+- Built from commit 750e1ce
+
 ## [0.1.10] - 2026-11-05
 - More visible sonar ping: bigger/longer/thicker ring, ease-out fade, force ripple above aircraft layer
 - Built from commit 94e7625
-
 ## [0.1.9] - 2026-11-05
 - Inset sweep beam/head endpoints from radar edge to kill once-per-rotation gray bar blip
 - Built from commit a4064e9

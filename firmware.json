@@ -1,5 +1,5 @@
 {
-  "version": "0.1.10",
+  "version": "0.1.11",
   "url": "https://raw.githubusercontent.com/oh2fxd/ADSB7-firmware/main/ADSB7.bin",
-  "notes": "More visible sonar ping: bigger/longer/thicker ring, ease-out fade, force ripple above aircraft layer"
+  "notes": "DIAGNOSTIC: force ripple per rotation + HUD AC/PINGS counter to isolate why pings dont show"
 }
